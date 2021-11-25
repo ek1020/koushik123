@@ -29,5 +29,6 @@ int main()
     {
     grade = 'F';
     }
+    printf(" grade F");
     return 0;
     }
